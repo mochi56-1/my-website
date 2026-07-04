@@ -1,5 +1,5 @@
 body{
-    font-family:  PMingLiU;
+    font-family: MS UI Gothic;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -14,8 +14,8 @@ body {
 }
 header {
     font-family: Book Antiqua;
-    background: #0f0f0fae;
-    color: #fff;
+    background: #404143a0;
+    color: #d3d5db;
     padding: 10px 0;
     text-align: center;
 }
@@ -32,7 +32,7 @@ nav ul li a {
     margin: 0 15px;
 }
 nav ul li a {
-    color:#fff;
+    color:#d3d5db;
     text-decoration: none;
 }
 main {
