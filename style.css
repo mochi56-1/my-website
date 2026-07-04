@@ -1,9 +1,10 @@
 body{
-    font-family: arial;
+    font-family:  MS UI Gothic;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     text-align: center
+    
 }
 body {
   background-image: url("back_sky.png");
@@ -12,7 +13,7 @@ body {
   background-repeat: no-repeat;
 }
 header {
-    font-family: arial;
+    font-family: Book Antiqua;
     background: #404143a0;
     color: #d3d5db;
     padding: 10px 0;
