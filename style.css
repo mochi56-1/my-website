@@ -5,6 +5,12 @@ body{
     padding: 0;
     text-align: center;
 }
+body {
+  background-image: url("back_sky.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 header {
     background: #333;
     color: #fff;
