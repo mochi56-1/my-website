@@ -3,7 +3,8 @@ body{
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: center
+    
 }
 body {
   background-image: url("back_sky.png");
@@ -12,7 +13,7 @@ body {
   background-repeat: no-repeat;
 }
 header {
-    background: #333;
+    background: #0f0f0fae;
     color: #fff;
     padding: 10px 0;
     text-align: center;
