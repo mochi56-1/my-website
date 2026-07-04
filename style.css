@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, sans-serif;
+    font-family:  PMingLiU;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat;
 }
 header {
+    font-family: Book Antiqua;
     background: #0f0f0fae;
     color: #fff;
     padding: 10px 0;
